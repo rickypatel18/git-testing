@@ -1,2 +1,4 @@
 pinkmode fix - one more bug fixed.
 another fix mesage for pink mode
+
+another fix mesage for purple mode
