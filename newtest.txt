@@ -1,5 +1,11 @@
 this is new branch file.
 fixed another merge
 
+
 add another section
 add footer
+
+one more bug fixed.
+
+fifth bug fixed
+
