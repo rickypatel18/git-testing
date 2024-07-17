@@ -1,2 +1,3 @@
 this is new branch file.
 fixed another merge
+one more bug fixed.
