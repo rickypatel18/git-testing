@@ -2,3 +2,4 @@ this is new branch file.
 fixed another merge
 one more bug fixed.
 one more bug fixed.
+fifth bug fixed
